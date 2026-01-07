@@ -1,7 +1,3 @@
----
-title: Homelab / Self-Hosted Infrastructure
-layout: default
----
 
 # Homelab / Self-Hosted Infrastructure
 
