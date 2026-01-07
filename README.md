@@ -4,3 +4,4 @@
 - [Wireguard Lab](https://madx-scott.github.io/wireguard-lab)
 - [Homelab Infrastructure](https://madx-scott.github.io/Homelab-Infrastructure)
 - [Automated Backups](https://madx-scott.github.io/Backups)
+- [Pentest Lab](https://madx-scott.github.io/Pentest)
