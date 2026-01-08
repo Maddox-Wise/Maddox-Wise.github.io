@@ -92,7 +92,7 @@ docker cp wireguard:/config/peer1/peer1.png ./peer1.png
 Then scanned it using the WireGuard iOS app.
 
 Phone WireGuard UI
-![Phone WireGuard UI]<img width="309" height="654" alt="Screenshot 2025-11-23 135336" src="https://github.com/user-attachments/assets/18d571b8-61b8-46a1-8959-f7f9f473d461" />
+<img width="309" height="654" alt="Screenshot 2025-11-23 135336" src="https://github.com/user-attachments/assets/18d571b8-61b8-46a1-8959-f7f9f473d461" />
 
 6. PC Setup (Peer 2)
 I exported my PC config:
@@ -103,7 +103,7 @@ docker cp wireguard:/config/peer2/peer2.conf ./peer2.conf
 Then imported it into the WireGuard Windows desktop app.
 
 PC WireGuard UI
-![PC WireGuard UI](images/Screenshot 2025-11-23 134143.png)
+(images/Screenshot 2025-11-23 134143.png)
 
 7. Public IP Verification
 I used ifconfig.me before and after connecting on both devices.
