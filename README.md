@@ -34,3 +34,12 @@ Each project includes documentation, configuration notes, and lessons learned.
 ### Incident Preparation & Response
 - **[Unknown Device Monitor](https://Maddox-Wise.github.io/UDM)**  
   Lightweight Python monitoring script that alerts on unknown active network connections.
+
+---
+
+### Ongoing Project Documentation
+- **[Project Notes & Implementation Log](https://Maddox-Wise.github.io/Project-Notes)**  
+  Central log for project changes, validation steps, technical decisions, and follow-up work.
+
+- **[Project Documentation Template](https://Maddox-Wise.github.io/Documentation-Template)**  
+  Reusable format for documenting future labs, scripts, infrastructure updates, and troubleshooting outcomes.
