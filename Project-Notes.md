@@ -6,21 +6,6 @@ This page tracks practical changes, decisions, validation steps, and follow-up w
 
 ---
 
-## Documentation Standards
-
-Each project note should include:
-
-- **Date:** When the work was completed
-- **Project Area:** The system, lab, script, or page affected
-- **Objective:** What problem the work addressed
-- **Changes Made:** The practical updates or configuration changes
-- **Validation:** How the result was tested or reviewed
-- **Follow-Up:** Remaining cleanup, hardening, or expansion items
-
-Documentation should stay focused on outcomes, implementation details, and lessons learned. Sensitive information such as passwords, webhook URLs, private keys, public IPs, and internal-only hostnames should be omitted or replaced with placeholders.
-
----
-
 ## Current Entries
 
 ### Network Monitoring Alert Workflow
