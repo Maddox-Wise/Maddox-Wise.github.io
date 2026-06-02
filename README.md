@@ -35,7 +35,7 @@ Each project includes documentation, configuration notes, and lessons learned.
 - **[Unknown Device Monitor](https://Maddox-Wise.github.io/UDM)**  
   Lightweight Python monitoring script that alerts on unknown active network connections.
 
-- **[Network Monitoring Alert Workflow](https://Maddox-Wise.github.io/Project-Notes)**  
+- **[Network Monitoring Alert Workflow](https://Maddox-Wise.github.io/Network-Monitoring)**  
   Implementation notes for active-device detection, allowlist review, optional Tailscale awareness, and Discord alerting.
 
 ---
