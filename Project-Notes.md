@@ -1,10 +1,4 @@
-# Project Notes & Implementation Log
-
-**Purpose:** Central documentation for project work completed across this site, homelab, security labs, scripts, and infrastructure experiments.
-
-This page tracks practical changes, decisions, validation steps, and follow-up work. It is intended to keep project documentation current without exposing private notes, credentials, internal-only addresses, or unnecessary workflow details.
-
----
+# Project Notes
 
 ## Current Entries
 
