@@ -31,15 +31,10 @@ Each project includes documentation, configuration notes, and lessons learned.
   Isolated virtual lab environment for ethical penetration testing, reconnaissance, and vulnerability analysis.
 
 ---
+
 ### Incident Preparation & Response
 - **[Unknown Device Monitor](https://Maddox-Wise.github.io/UDM)**  
   Lightweight Python monitoring script that alerts on unknown active network connections.
 
 - **[Network Monitoring Alert Workflow](https://Maddox-Wise.github.io/Network-Monitoring)**  
-  Implementation notes for active-device detection, allowlist review, optional Tailscale awareness, and Discord alerting.
-
----
-
-### Documentation Resources
-- **[Project Documentation Template](https://Maddox-Wise.github.io/Documentation-Template)**  
-  Reusable format for documenting future labs, scripts, infrastructure updates, and troubleshooting outcomes.
+  Implementation notes for active device detection, allowlist review, optional Tailscale awareness, and Discord alerting.
