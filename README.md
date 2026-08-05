@@ -38,3 +38,9 @@ Each project includes documentation, configuration notes, and lessons learned.
 
 - **[Network Monitoring Alert Workflow](https://Maddox-Wise.github.io/Network-Monitoring)**  
   Implementation notes for active device detection, allowlist review, optional Tailscale awareness, and Discord alerting.
+
+---
+
+### Security Data Engineering
+- **[Improving Security Data Through OCSF Normalization](https://Maddox-Wise.github.io/OCSF-Normalization)**  
+  GuidePoint Security capstone project mapping Palo Alto and Cisco ASA firewall logs into the OCSF 1.8.0 schema with a Cribl Stream pipeline.
